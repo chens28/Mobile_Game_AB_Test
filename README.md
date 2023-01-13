@@ -4,6 +4,6 @@
 
 <img src="https://github.com/chens28/Mobile_Game_AB_Test/blob/main/cc_gates.png" width=45% height=45%>
 
-An A/B test was conducted to determine if moving the gate from level 40 to level 30 would increase user (1-day and 7-day) retention. The goal of this project is to analyze the result of the AB test to see make a decision on whther we should launch the change. Seet the analysis and conclusion [here](https://github.com/chens28/Mobile_Game_AB_Test/blob/main/AB_Test.ipynb) here.
+An A/B test was conducted to determine if moving the gate from level 40 to level 30 would increase user (1-day and 7-day) retention. The goal of this project is to analyze the result of the AB test to see make a decision on whther we should launch the change. Seet the analysis and conclusion [here](https://github.com/chens28/Mobile_Game_AB_Test/blob/main/AB_Test.ipynb).
 
 
